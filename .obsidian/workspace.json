@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "40bab3cad570013a",
+            "id": "590916d02915835c",
             "type": "leaf",
             "state": {
               "type": "example-view",
@@ -165,7 +165,7 @@
       "hello-world:Toggle React View": false
     }
   },
-  "active": "40bab3cad570013a",
+  "active": "590916d02915835c",
   "lastOpenFiles": [
     "node_modules/react/README.md",
     "node_modules/react-dom/cjs/react-dom.react-server.production.js",
