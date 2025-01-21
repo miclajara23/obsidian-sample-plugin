@@ -1,5 +1,6 @@
 [
   "sample-plugin",
   "hot-reload",
-  "hello-world"
+  "hello-world",
+  "obsidian-discordrpc"
 ]

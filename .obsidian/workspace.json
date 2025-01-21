@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "590916d02915835c",
+            "id": "fe2c8ce02649a314",
             "type": "leaf",
             "state": {
               "type": "example-view",
@@ -165,7 +165,7 @@
       "hello-world:Toggle React View": false
     }
   },
-  "active": "590916d02915835c",
+  "active": "fe2c8ce02649a314",
   "lastOpenFiles": [
     "node_modules/react/README.md",
     "node_modules/react-dom/cjs/react-dom.react-server.production.js",
