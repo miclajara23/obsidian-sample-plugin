@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0db11ec681f50296",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f382f08fecdd2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "854f82baa73ca2b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebf21e4024512078",
+    "type": "split",
+    "children": [
+      {
+        "id": "f540299097a1d3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "239fc437acbfcee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f849b813336623ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "30bb3dcf3dd05cc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e437faed5db5fbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c37e1dcb2f482297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c491034e38770f49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dc960be4d4c1a91f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2f52904263903ffb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3ed770248d64269",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c5f5c224273ddd2d",
+            "type": "leaf",
+            "state": {
+              "type": "example-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Example view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "hello-world:Toggle React View": false
+    }
+  },
+  "active": "c5f5c224273ddd2d",
+  "lastOpenFiles": [
+    "node_modules/react/README.md",
+    "node_modules/react-dom/cjs/react-dom.react-server.production.js",
+    "node_modules/react-dom/cjs/react-dom.react-server.development.js",
+    "node_modules/react-dom/cjs/react-dom.production.js",
+    "node_modules/react-dom/cjs/react-dom.development.js",
+    "node_modules/react-dom/cjs/react-dom-test-utils.production.js",
+    "node_modules/react-dom/cjs/react-dom-test-utils.development.js",
+    "node_modules/react-dom/cjs/react-dom-server.node.production.js",
+    "node_modules/react-dom/cjs/react-dom-server.node.development.js",
+    "node_modules/react-dom/cjs/react-dom-server.edge.production.js",
+    "node_modules/react-dom/cjs/react-dom-server.edge.development.js",
+    "node_modules/scheduler/README.md",
+    "node_modules/@types/react/README.md",
+    "node_modules/csstype/README.md",
+    "node_modules/@types/react-dom/README.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/unified-signatures.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/unbound-method.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/typedef.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/type-annotation-spacing.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/triple-slash-reference.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/TEMPLATE.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/switch-exhaustiveness-check.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/strict-boolean-expressions.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-infix-ops.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-before-function-paren.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-before-blocks.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/sort-type-union-intersection-members.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/semi.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/return-await.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-template-expressions.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-plus-operands.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/require-await.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/require-array-sort-compare.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/README.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/quotes.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/promise-function-async.md"
+  ]
+}
