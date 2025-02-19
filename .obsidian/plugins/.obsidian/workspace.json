@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0db11ec681f50296",
+    "id": "46df14d5a8c5c6f8",
     "type": "split",
     "children": [
       {
-        "id": "0cf2996bb6af75be",
+        "id": "d76efb8a8bd43ccc",
         "type": "tabs",
         "children": [
           {
-            "id": "ca859a14cd6e01a1",
+            "id": "24cbdddd11dad72f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ebf21e4024512078",
+    "id": "39e18b2775173520",
     "type": "split",
     "children": [
       {
-        "id": "f540299097a1d3df",
+        "id": "ed13a9d744887ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "239fc437acbfcee9",
+            "id": "2f27193dcd564375",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f849b813336623ed",
+            "id": "532cbbe38635f6ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "30bb3dcf3dd05cc4",
+            "id": "22ccd6a7c303481c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "e437faed5db5fbf3",
+    "id": "71782f4cb1dbea2d",
     "type": "split",
     "children": [
       {
-        "id": "c37e1dcb2f482297",
+        "id": "a99fd46b7cc45fc0",
         "type": "tabs",
         "children": [
           {
-            "id": "c491034e38770f49",
+            "id": "834fedff05cba56c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "dc960be4d4c1a91f",
+            "id": "e6b4aad67c3d439b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "2f52904263903ffb",
+            "id": "a1f7a22c0af7cbf8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +128,7 @@
             }
           },
           {
-            "id": "d3ed770248d64269",
+            "id": "6e4865ec98552aa4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,23 +136,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "814680130085e7bd",
-            "type": "leaf",
-            "state": {
-              "type": "example-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Example view"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,47 +151,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "hello-world:Toggle React View": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "814680130085e7bd",
-  "lastOpenFiles": [
-    "node_modules/esbuild/lib/main.d.ts",
-    "node_modules/@typescript-eslint/typescript-estree/dist/simple-traverse.d.ts",
-    "node_modules/@typescript-eslint/typescript-estree/dist/parser.d.ts",
-    "node_modules/@typescript-eslint/parser/dist/parser.d.ts",
-    "node_modules/@typescript-eslint/parser/dist/index.d.ts",
-    "node_modules/@typescript-eslint/utils/dist/ast-utils/eslint-utils/PatternMatcher.d.ts",
-    "node_modules/@typescript-eslint/visitor-keys/dist/visitor-keys.d.ts",
-    "node_modules/@typescript-eslint/visitor-keys/dist/get-keys.d.ts",
-    "node_modules/@typescript-eslint/visitor-keys/dist/index.d.ts",
-    "node_modules/@typescript-eslint/scope-manager/dist/variable/Variable.d.ts",
-    "node_modules/@typescript-eslint/scope-manager/dist/variable/ImplicitLibVariable.d.ts",
-    "node_modules/source-map-js/README.md",
-    "node_modules/util-deprecate/README.md",
-    "node_modules/util-deprecate/History.md",
-    "node_modules/ts-interface-checker/README.md",
-    "node_modules/thenify-all/History.md",
-    "node_modules/thenify-all/README.md",
-    "node_modules/thenify/README.md",
-    "node_modules/thenify/History.md",
-    "node_modules/postcss-value-parser/README.md",
-    "node_modules/postcss-selector-parser/README.md",
-    "node_modules/postcss-selector-parser/CHANGELOG.md",
-    "node_modules/postcss-selector-parser/API.md",
-    "node_modules/postcss-nested/README.md",
-    "node_modules/postcss-load-config/README.md",
-    "node_modules/postcss-js/README.md",
-    "node_modules/postcss-import/README.md",
-    "node_modules/pirates/README.md",
-    "node_modules/pify/readme.md",
-    "node_modules/picocolors/README.md",
-    "node_modules/path-parse/README.md",
-    "node_modules/object-assign/readme.md",
-    "node_modules/normalize-path/README.md",
-    "node_modules/nanoid/README.md",
-    "node_modules/mz/README.md",
-    "node_modules/mz/HISTORY.md"
-  ]
+  "active": "24cbdddd11dad72f",
+  "lastOpenFiles": []
 }
