@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0db11ec681f50296",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f382f08fecdd2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "854f82baa73ca2b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebf21e4024512078",
+    "type": "split",
+    "children": [
+      {
+        "id": "f540299097a1d3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "239fc437acbfcee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f849b813336623ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "30bb3dcf3dd05cc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e437faed5db5fbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c37e1dcb2f482297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c491034e38770f49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dc960be4d4c1a91f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2f52904263903ffb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3ed770248d64269",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bd0a1286ccb8f2a5",
+            "type": "leaf",
+            "state": {
+              "type": "example-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Example view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 465.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "hello-world:Toggle React View": false
+    }
+  },
+  "active": "bd0a1286ccb8f2a5",
+  "lastOpenFiles": [
+    "LICENSE",
+    "node_modules/source-map-js/lib/util.js",
+    "node_modules/source-map-js/lib/source-node.js",
+    "node_modules/source-map-js/lib/source-node.d.ts",
+    "node_modules/source-map-js/lib/source-map-generator.js",
+    "node_modules/source-map-js/lib/source-map-generator.d.ts",
+    "node_modules/source-map-js/lib/source-map-consumer.js",
+    "node_modules/source-map-js/lib/source-map-consumer.d.ts",
+    "node_modules/source-map-js/lib/quick-sort.js",
+    "node_modules/source-map-js/lib/mapping-list.js",
+    "node_modules/source-map-js/lib/binary-search.js",
+    "node_modules/source-map-js/README.md",
+    "node_modules/util-deprecate/README.md",
+    "node_modules/util-deprecate/History.md",
+    "node_modules/ts-interface-checker/README.md",
+    "node_modules/thenify-all/History.md",
+    "node_modules/thenify-all/README.md",
+    "node_modules/thenify/README.md",
+    "node_modules/thenify/History.md",
+    "node_modules/postcss-value-parser/README.md",
+    "node_modules/postcss-selector-parser/README.md",
+    "node_modules/postcss-selector-parser/CHANGELOG.md",
+    "node_modules/postcss-selector-parser/API.md",
+    "node_modules/postcss-nested/README.md",
+    "node_modules/postcss-load-config/README.md",
+    "node_modules/postcss-js/README.md",
+    "node_modules/postcss-import/README.md",
+    "node_modules/pirates/README.md",
+    "node_modules/pify/readme.md",
+    "node_modules/picocolors/README.md",
+    "node_modules/path-parse/README.md",
+    "node_modules/object-assign/readme.md",
+    "node_modules/normalize-path/README.md",
+    "node_modules/nanoid/README.md",
+    "node_modules/mz/README.md",
+    "node_modules/mz/HISTORY.md"
+  ]
+}
